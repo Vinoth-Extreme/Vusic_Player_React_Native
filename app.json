@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Vusic-Music",
+    "slug": "Vusic-Music",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/vusic-icon.png",
+    "androidStatusBar": {
+      "hidden": true
+    },
+    "androidNavigationBar": {
+      "visible": "sticky-immersive"
+    },
+    "splash": {
+      "image": "./assets/vusic-splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/vusic-adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.vinothextreme.VusicMusic"
+    },
+    "web": {
+      "favicon": "./assets/vusic-favicon.png"
+    }
+  }
+}

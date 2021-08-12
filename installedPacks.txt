@@ -1,0 +1,15 @@
+react-native-elements 
+@react-navigation/native 
+@react-navigation/stack 
+react-native-gesture-handler 
+react-native-reanimated 
+react-native-safe-area-context 
+react-native-screens 
+lottie-react-native 
+react-native-draggable 
+@react-native-async-storage/async-storge 
+react-native-track-player 
+react-native-color-picker
+
+expo-av 
+expo-media-library
